@@ -1,0 +1,13 @@
+C:\Users\TI\source\repos\dev\yield_return\yield_return\bin\Debug\netcoreapp3.1\yield_return.exe
+C:\Users\TI\source\repos\dev\yield_return\yield_return\bin\Debug\netcoreapp3.1\yield_return.deps.json
+C:\Users\TI\source\repos\dev\yield_return\yield_return\bin\Debug\netcoreapp3.1\yield_return.runtimeconfig.json
+C:\Users\TI\source\repos\dev\yield_return\yield_return\bin\Debug\netcoreapp3.1\yield_return.runtimeconfig.dev.json
+C:\Users\TI\source\repos\dev\yield_return\yield_return\bin\Debug\netcoreapp3.1\yield_return.dll
+C:\Users\TI\source\repos\dev\yield_return\yield_return\bin\Debug\netcoreapp3.1\yield_return.pdb
+C:\Users\TI\source\repos\dev\yield_return\yield_return\obj\Debug\netcoreapp3.1\yield_return.csprojAssemblyReference.cache
+C:\Users\TI\source\repos\dev\yield_return\yield_return\obj\Debug\netcoreapp3.1\yield_return.AssemblyInfoInputs.cache
+C:\Users\TI\source\repos\dev\yield_return\yield_return\obj\Debug\netcoreapp3.1\yield_return.AssemblyInfo.cs
+C:\Users\TI\source\repos\dev\yield_return\yield_return\obj\Debug\netcoreapp3.1\yield_return.csproj.CoreCompileInputs.cache
+C:\Users\TI\source\repos\dev\yield_return\yield_return\obj\Debug\netcoreapp3.1\yield_return.dll
+C:\Users\TI\source\repos\dev\yield_return\yield_return\obj\Debug\netcoreapp3.1\yield_return.pdb
+C:\Users\TI\source\repos\dev\yield_return\yield_return\obj\Debug\netcoreapp3.1\yield_return.genruntimeconfig.cache
